@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{88CA45A2-4456-7518-269F-11BD06272D49}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameLiftTut",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

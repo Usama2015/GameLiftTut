@@ -7,21 +7,13 @@
 		{
 			"Name": "GameLiftTut",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"UMG"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
 		{
 			"Name": "GameLiftServerSDK",
-			"Enabled": true
-		},
-		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
+			"Enabled":  true
 		}
 	]
 }

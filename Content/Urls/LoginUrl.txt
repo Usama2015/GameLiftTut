@@ -1,1 +1,0 @@
-https://gameofskillz.auth.us-east-1.amazoncognito.com/login?client_id=2al3jtrp54gqd2oucftcebqrfg&response_type=code&scope=aws.cognito.signin.user.admin+email+gamelift.tut.api/access+openid+phone+profile&redirect_uri=https://ftb6h5t8ti.execute-api.us-east-1.amazonaws.com/test/getsigninresult

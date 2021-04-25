@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+WindowsNoEditor/GameLiftTut.exe
+WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
+WindowsNoEditor/GameLiftTut/Content/Paks/GameLiftTut-WindowsNoEditor.pak
